@@ -6,13 +6,13 @@ A collaborative SQL Server database project completed as part of coursework
 - Database schema with tables, indexes, and constraints
 - Sample data population
 - Stored procedures, views, and triggers
-- Full backup strategy notes
+- Full database backup
 
 ## Folder Structure
 
 - `/sql`: Sql scripts
 - `/docs`: Project documentation and overview
-- `/backup`: Backup database
+- `/backup`: Backup database (.bak) file
 
 ## ⚙️ Tools Used
 
