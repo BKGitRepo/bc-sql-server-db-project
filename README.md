@@ -20,3 +20,9 @@ A collaborative SQL Server database project completed as part of a course
 - Microsoft SQL Server
 - T-SQL
 - SQL Server Management Studio (SSMS)
+## 🚀 Quick Start
+
+To create the database, simply run the script below in SQL Server Management Studio (SSMS):
+
+```sql
+-- file: /sql/full-database-script.sql
